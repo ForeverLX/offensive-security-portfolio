@@ -6,13 +6,21 @@
 ## About Me
 
 Offensive security professional specializing in Active Directory exploitation, 
-Windows privilege escalation, and enterprise infrastructure assessment. I focus 
-on realistic attack simulation with emphasis on business impact analysis and 
-actionable remediation guidance.
+Windows privilege escalation, and enterprise infrastructure assessment. My background 
+includes foundational pentesting training through the Certified Offensive Security 
+Junior course (October 2025), followed by specialized Active Directory red team 
+operations training (AD-RTS, November 2025).
+
+I focus on realistic attack simulation with emphasis on business impact analysis 
+and actionable remediation guidance. My work demonstrates progression from 
+fundamental pentesting skills to advanced Active Directory tradecraft, with 
+ongoing development toward expert-level capabilities through the OSCE³ 
+certification track.
 
 **Technical Focus Areas:**
 - Active Directory security (Kerberos attacks, ADCS exploitation, credential harvesting)
 - Windows post-exploitation (token manipulation, LSASS dumping, lateral movement)
+- Web application security (OWASP Top 10, injection attacks, authentication bypass)
 - Enterprise infrastructure (ESXi/vCenter, database security, virtualization)
 - Living-off-the-land techniques on modern Windows environments
 
@@ -24,7 +32,10 @@ to adapt tooling beyond standard Kali distributions for real-world engagement co
 ## Featured Assessment: TELECOM INC. Active Directory Compromise
 
 <p align="center">
-  <img src="certifications/CWL_AD-RTS_Certificate.png" alt="CWL AD-RTS Certification" width="400"/>
+<img width="500" height="486" alt="COSJ" src="https://github.com/user-attachments/assets/fa56ffac-b3da-4a2b-9bc5-95e0180d5c09" 
+</p>
+<p align="center">
+<img width="500" alt="CWL_AD-RTS_Certificate" src="https://github.com/user-attachments/assets/676e61e5-58e4-40f7-a493-d45ae69f01c8" />
 </p>
 
 **[📄 Download Full Report (PDF)](./assessments/TELECOM-INC-AD-Assessment.pdf)**  
@@ -176,14 +187,27 @@ environments where Kali may not be approved or available.
 ## Certifications
 
 **Current:**
-- CyberWarfare Labs: Active Directory Red Team Specialist (AD-RTS)
+- Red-Ops Academy: Certified Offensive Security Junior  (October 2025)
+- CyberWarfare Labs: Active Directory Red Team Specialist (November 2025
+
 
 **In Progress:**
-- Certified Red Team Operator (CRTO) - Scheduled
-- OSCE³ (OffSec Certified Expert³)- (2026)
-  - Offensive Security Experienced Penetration Tester (OSEP) - (Q1 2026)
-  - Offensive Security Exploit Developer (OSED) - (Q2 2026)
-  - Offensive Security Web Expert (OSWE) - (Q4 2026)
+- Certified Red Team Operator **(CRTO)** - Q1 2026
+- Offensive Security Experienced Penetration Tester **(OSEP)** - Q2 2026
+- Offensive Security Exploit Developer **(OSED)** - Q3 2026
+- Offensive Security Web Expert **(OSWE)** - Q4 2026
+- OffSec Certified Expert³ **(OSCE³)** - 2027 (after OSEP + OSED + OSWE)
+
+*Certification path optimized for advanced red team operations, focusing on Active 
+Directory tradecraft (CRTO) and advanced exploitation techniques (OSCE³ track) 
+rather than generalist entry-level certifications.*
+
+**Learning Path Rationale:**  
+Foundation established through structured Offensive Security Junior 
+course, followed by specialized Active Directory tradecraft (AD-RTS, CRTO). 
+Progressing to OffSec's advanced exploitation track (OSEP → OSED → OSWE → OSCE³) 
+rather than entry-level OSCP, targeting senior red team operator capabilities.
+
 ---
 
 ## Professional Approach
@@ -220,15 +244,12 @@ environments where Kali may not be approved or available.
 - Teams emphasizing realistic attack simulation and purple team collaboration
 - Environments that value documentation and knowledge sharing
 
-**Location:** Las Vegas, Nevada (open to on-site, remote, or hybrid work)
-
----
-
 ## Contact
 
-**Email:** Darrius.G@proton.me
-**LinkedIn:** www.linkedin.com/in/darrius-grate  
+**Email:** Darrius.G@proton.me  
+**LinkedIn:** [linkedin.com/in/darrius-grate](https://www.linkedin.com/in/darrius-grate)  
 **Location:** Las Vegas, NV  
+**Work Preference:** Open to on-site, remote, or hybrid positions
 
 ---
 
