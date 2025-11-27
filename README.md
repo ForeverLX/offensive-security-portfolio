@@ -38,7 +38,6 @@ to adapt tooling beyond standard Kali distributions for real-world engagement co
 <img width="500" alt="CWL_AD-RTS_Certificate" src="https://github.com/user-attachments/assets/676e61e5-58e4-40f7-a493-d45ae69f01c8" />
 </p>
 
-**[📄 Download Full Report (PDF)](./assessments/TELECOM-INC-AD-Assessment.pdf)**  
 **[🔧 Technical Challenges Document](./assessments/AD-RTS-Technical-Challenges.md)**
 
 ### Executive Summary
