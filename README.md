@@ -180,10 +180,28 @@ environments where Kali may not be approved or available.
 - Kali Linux (familiarity with standard tooling)
 - Windows Server (2016/2019/2022 exploitation and hardening)
 - Various Linux distributions (Ubuntu, CentOS, RHEL)
+---
+## Professional Approach
+
+**Assessment Philosophy:**
+- Business impact analysis ties technical findings to organizational risk
+- Detailed remediation guidance enables blue team implementation
+- Systematic troubleshooting demonstrates real-world operational constraints
+- Professional documentation suitable for executive and technical audiences
+
+**Why My Work Stands Out:**
+1. **Real Problem-Solving:** 4.5 hours of documented troubleshooting shows 
+   adaptability beyond scripted tutorials
+2. **Blue Team Perspective:** Understanding defensive controls (firewall evasion, 
+   detection avoidance) from offensive operations
+3. **Communication Skills:** Executive summaries, business impact analysis, and 
+   technical depth for different stakeholder audiences
+4. **Professional Standards:** Reports formatted for actual client delivery, not 
+   just portfolio demonstrations
 
 ---
 
-## Certifications
+## Certifications & Training
 
 **Current:**
 - Red-Ops Academy: Certified Offensive Security Junior  (October 2025)
@@ -207,25 +225,20 @@ course, followed by specialized Active Directory tradecraft (AD-RTS, CRTO).
 Progressing to OffSec's advanced exploitation track (OSEP → OSED → OSWE → OSCE³) 
 rather than entry-level OSCP, targeting senior red team operator capabilities.
 
----
+## 🎤 SPEAKING & COMMUNITY ENGAGEMENT
 
-## Professional Approach
+**"Why AD Permissions Are Still the Weakest Link"** | December 2025  
+*CyberFrat Community Technical Presentation (Upcoming)*
 
-**Assessment Philosophy:**
-- Business impact analysis ties technical findings to organizational risk
-- Detailed remediation guidance enables blue team implementation
-- Systematic troubleshooting demonstrates real-world operational constraints
-- Professional documentation suitable for executive and technical audiences
+Scheduled presentation on Active Directory attack paths and defensive strategies:
+- Common AD misconfigurations enabling privilege escalation
+- Real-world attacker workflow from initial access to domain compromise
+- Detection engineering signals for blue team monitoring
+- Practical 5-step mitigation checklist for defenders
+- Purple team approach combining offensive and defensive perspectives
 
-**Why My Work Stands Out:**
-1. **Real Problem-Solving:** 4.5 hours of documented troubleshooting shows 
-   adaptability beyond scripted tutorials
-2. **Blue Team Perspective:** Understanding defensive controls (firewall evasion, 
-   detection avoidance) from offensive operations
-3. **Communication Skills:** Executive summaries, business impact analysis, and 
-   technical depth for different stakeholder audiences
-4. **Professional Standards:** Reports formatted for actual client delivery, not 
-   just portfolio demonstrations
+*Presentation scheduled for first week of December 2025. Materials will be 
+published here after delivery.*
 
 ---
 
